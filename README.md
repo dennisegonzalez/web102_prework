@@ -23,18 +23,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dennisegonzalez/web102_prework/blob/main/SeaMonstering.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges with building the app were:
+- Working with the logic of new functions in javascript, mainly the reduce function. I had never used it before, so trying to get familiar with the syntax and making sure I knew why that piece of code returned what I needed was slightly time-consuming
+- Using the ternary operator was also something new. I had seen it before in other people's projects, but I had never really implemented it on my own. It ended up being pretty straightforward. 
 
 ## License
 
