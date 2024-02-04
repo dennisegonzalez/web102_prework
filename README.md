@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Button that redirects to a separate page to display extra information not included in the game card for the Zoo Tycoon game
 
 ## Video Walkthrough
 
